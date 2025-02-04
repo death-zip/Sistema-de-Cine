@@ -1,0 +1,27 @@
+.title-label {
+    -fx-font-size: 18px;
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+}
+
+.btn-reservar {
+    -fx-background-color: #2A9D8F;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+    -fx-border-radius: 5px;
+}
+
+.btn-reservar:hover {
+    -fx-background-color: #21867A;
+}
+
+.mensaje-label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #FFD700;
+    -fx-font-style: italic;
+}
+
+AnchorPane {
+    -fx-background-color: #1E1E1E;
+}
